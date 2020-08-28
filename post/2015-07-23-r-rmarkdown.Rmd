@@ -6,6 +6,8 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" ></script>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
@@ -23,6 +25,8 @@ fit
 ```
 
 # Including Plots
+
+\\(x^2\\)
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 

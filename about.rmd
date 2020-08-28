@@ -1,0 +1,25 @@
+---
+aliases:
+- about-us
+- contact
+author: Srijit Mukherjee
+date: "2019-02-28"
+description: 
+math: true
+title: About
+---
+
+Hey. I am Srijit Mukherjee. *Whysrijit* is my effort to share my wisdom in my world of crunching numbers to make sense out of nonsense and order out of chaos.
+
+My transcendental, irrational and creative (I prefer calling it my $\pi$) side consists of 
+
+- Haiku
+- Animation
+- Dancing with Kids
+- Sports
+
+
+
+
+
+
